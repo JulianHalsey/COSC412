@@ -3,7 +3,7 @@
 Team Members:
 
 Emmanuel Asomuyide
-Julian Halsey
+# Julian Halsey
 Selena Hamilton
 Jenna Myers
 Joshua Vossler
