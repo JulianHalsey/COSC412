@@ -1,4 +1,4 @@
-# COSC412
+# RoarBoard
 
 Team Members:
 
